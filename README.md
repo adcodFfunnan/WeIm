@@ -12,7 +12,7 @@ The list of uploaded images can be modified in terms of deleting or adding some 
 </pre>
 <p>next open your project folder</p>
 <pre>
-	<code class="language-bash">cd project-name</code>
+	<code class="language-bash">cd weim</code>
 </pre>
 <p>and update your laravel version with composer.json</p>
 <pre>
