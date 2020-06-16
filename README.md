@@ -8,7 +8,7 @@ The list of uploaded images can be modified in terms of deleting or adding some 
 <p>Clone the project into local</p>
 
 <pre>
-	<code class="language-bash">git clone https://github.com/adcodFfunnan/weim.git></code>
+	<code class="language-bash">git clone https://github.com/adcodFfunnan/weim.git</code>
 </pre>
 <p>next open your project folder</p>
 <pre>
